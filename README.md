@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Balin Andrew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, World! My name is Andrew :)
+
+I write code on *Python*, *JavaScript*, *Dart Flutter* and *HTML-SASS*
+
+My gneral project is "Digital School 72" - an education platorm for school students an teachers
+
+Besides I am developing chatots
 
 <!---
 AndrewBalin/AndrewBalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
