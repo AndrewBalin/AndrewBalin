@@ -4,7 +4,7 @@ I write code on *Python*, *JavaScript*, *Dart Flutter* and *HTML-SASS*
 
 My gneral project is "Digital School 72" - an education platorm for school students an teachers
 
-Besides I am developing chatbots
+Besides I am developing chatbots, AI and mobile, web-applications!
 
 <!---
 AndrewBalin/AndrewBalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
