@@ -1,6 +1,6 @@
 Hello, World! My name is Andrew :)
 
-I write code on *Python*, *JavaScript*, *Dart Flutter* and *HTML-SASS*
+I write code on *Python*, *JavaScript*, *Dart Flutter* and *HTML-CSS*
 
 My gneral project is "Digital School 72" - an education platorm for school students an teachers
 
